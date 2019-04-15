@@ -1,2 +1,2 @@
 # marvellous.github.io
-A project of amazement theme park's website using simple <HTML>
+A project of amazement theme park's website using simple HTML
